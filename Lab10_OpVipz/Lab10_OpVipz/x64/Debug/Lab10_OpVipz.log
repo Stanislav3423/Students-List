@@ -1,0 +1,34 @@
+﻿  Main.c
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(1,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(35,9): warning C4013: 'gets' undefined; assuming extern returning int
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(54,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(122,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(170,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(216,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(259,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(291,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(377,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(471,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(508,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(548,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(586,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(613,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(689,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(957,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(1339,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(997,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(1045,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(1091,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(1134,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(1166,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(1252,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(1380,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(1417,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(1458,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(1496,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(1523,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(1598,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(1669,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\Lab10_OpVipz\Main.c(1701,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab10_OpVipz.vcxproj -> D:\Universe\Sem2\VIPZ\Labs\Lab_0\Lab10_OpVipz\x64\Debug\Lab10_OpVipz.exe

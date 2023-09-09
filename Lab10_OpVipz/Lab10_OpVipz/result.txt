@@ -1,0 +1,49 @@
+START
+
+READING: 
+Antonchik Vladyslav 4.4.2010 2 5 1 5 2 |3.000
+Gnatetska Olga 4.4.2010 5 5 5 5 3 |4.600
+Bunko Nazar 4.4.2010 5 5 5 5 4 |4.800
+Guzar Pavlo 4.4.2010 5 5 5 5 1 |4.200
+Akimov Olexiy 4.4.2010 5 5 5 2 5 |4.400
+Gerus Tetiana 4.4.2010 5 5 5 1 5 |4.200
+Volodkin Stanislav 4.4.2010 5 5 5 5 5 |5.000
+Burtnyk Marta 4.4.2010 5 5 5 5 5 |5.000
+Boyko Roman 4.4.2010 5 5 5 5 5 |5.000
+Brazdeckiy Denys 4.4.2010 2 5 1 5 5 |3.600
+
+ADD NEW ELEMENT: 
+Serhiy Kashuba 6.6.2003 5 3 1 2 3 |2.800
+
+SORTING: 
+Serhiy Kashuba 6.6.2003 5 3 1 2 3 |2.800
+
+SORTING: 
+Serhiy Kashuba 6.6.2003 5 3 1 2 3 |2.800
+
+SORTING: 
+Serhiy Kashuba 6.6.2003 5 3 1 2 3 |2.800
+
+SORTING: 
+Serhiy Kashuba 6.6.2003 5 3 1 2 3 |2.800
+
+SORTING: 
+Serhiy Kashuba 6.6.2003 5 3 1 2 3 |2.800
+
+SORTING: 
+Serhiy Kashuba 6.6.2003 5 3 1 2 3 |2.800
+
+DELETE BY AGE: 
+Serhiy Kashuba 6.6.2003 5 3 1 2 3 |2.800
+
+DELETE BY AGE: 
+Serhiy Kashuba 6.6.2003 5 3 1 2 3 |2.800
+
+DELETE BY AGE: 
+Serhiy Kashuba 6.6.2003 5 3 1 2 3 |2.800
+
+DELETE BY AGE: 
+Serhiy Kashuba 6.6.2003 5 3 1 2 3 |2.800
+
+DELETE BY MARKS: 
+Serhiy Kashuba 6.6.2003 5 3 1 2 3 |2.800
